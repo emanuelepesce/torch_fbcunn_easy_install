@@ -51,4 +51,4 @@ sudo cp cuda/lib64/*.so* /usr/local/cuda/lib64
 
 ## Contributors
 
-Emanuele Pesce, Nicolo' Savioli
+[Emanuele Pesce](https://github.com/emanuelepesce), [Nicolo' Savioli](https://github.com/bionick87)
